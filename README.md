@@ -1,3 +1,7 @@
+# Brief 
+
+This is the User Iterface/Frontend part of the Email Sender App project. Uses Angular for the frontend development.
+
 # EmailGui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
