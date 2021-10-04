@@ -1,6 +1,8 @@
 # EmailGui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
+This will use Angular as a framework for creating the frontend of the application. The email will be send
+from a developer email only, which cannot be changed for now.
 
 ## Development server
 
